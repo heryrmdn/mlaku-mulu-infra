@@ -14,7 +14,7 @@ Infra for Mlaku Mulu operations.
 
 ```bash
 git clone https://github.com/heryrmdn/mlaku-mulu-infra.git
-mlaku-mulu-infra
+cd mlaku-mulu-infra
 ```
 
 ### 2. Environment Variables
