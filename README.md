@@ -30,7 +30,7 @@ Fill in appropriate values in the `.env` file.
 ### Docker
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ## Stay in touch
